@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>bojjenclon</title>
+ <link href="http://bojjenclon.com//atom.xml" rel="self"/>
+ <link href="http://bojjenclon.com//"/>
+ <updated>2015-11-16T12:15:38-05:00</updated>
+ <id>http://bojjenclon.com</id>
+ <author>
+   <name>Cornell Daly</name>
+   <email>contact@bojjenclon.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Move to Jekyll</title>
+   <link href="http://bojjenclon.com/2015/11/15/move-to-jekyll/"/>
+   <updated>2015-11-15T00:00:00-05:00</updated>
+   <id>http://bojjenclon.com//2015/11/15/move-to-jekyll</id>
+   <content type="html">&lt;p&gt;My website has officially migrated to &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;! Jekyll is a static website generation tool. I am using the &lt;a href=&quot;http://lanyon.getpoole.com/&quot;&gt;Lanyon&lt;/a&gt; template on top of it. I’ve made the switch for a couple of reasons:&lt;/p&gt;
+
+&lt;p&gt;First and foremost, Jekyll makes it ridiculously easy to add and modify content. My website never has been (and likely never will be) particularly dynamic in nature. Therefore, there is really no for me to &lt;em&gt;not&lt;/em&gt; use a static site generator.&lt;/p&gt;
+
+&lt;p&gt;Second, eventually I intend to provide more blog-like content on this website. I aim to provide dev-logs for projects, my thoughts on different languages/libraries/tools/etc., and tutorials. Jekyll again makes it very easy to quickly add content of this nature.&lt;/p&gt;
+
+&lt;p&gt;All in all, Jekyll simply provides exactly what I need/want for this website in an easy to use package. Plus it’s always fun to learn a new tech-stack. :D&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
